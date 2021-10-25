@@ -7,7 +7,7 @@ Some professors in TAMU have not been added to rate my professor as well, so whe
 course_classes has sections for all courses from past up till Spring 2020. To get data from 2021-2022, must collect data from https://web-as.tamu.edu/gradereport/.
 
 ## Car-Data
-Data dealing with cars, missing a ton of data in some fields (site issue). Features and types column in csv file is a little deceptive, doesn't actually list the many features and types. Instead, to simplify them these two I just took their respective counts.
+Data dealing with cars, missing a ton of data in some fields (site issue). Features and types column in csv file is a little deceptive, doesn't actually list the many features and types. Instead, to simplify these two I just took their respective counts.
 
 ## Roblox_Data
 Decent amount of metrics added for game info. Unsure whether to add each game's description as well as like-dislike ratio for potential features in search bar.
