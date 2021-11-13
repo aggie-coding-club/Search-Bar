@@ -1,6 +1,0 @@
-When searching online, couldn't find good way to acquire flight times.
-
-Instead, found a good site that can be used to map routes:
-https://openflights.org/data.html#route
-https://github.com/jpatokal/openflights/tree/master/data
-https://openflights.org/html/route-maps
