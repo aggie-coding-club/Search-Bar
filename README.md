@@ -2,6 +2,7 @@
 
 Necessary Installations
 * install django, djangorest_framework, psycopg with "pip install"
+* Install roblox_data.csv file in Data folder
 * install pgAdmin4 and postgresql (described later down)
 
 ## Setting up search bar example
