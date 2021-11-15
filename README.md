@@ -13,7 +13,7 @@ Necessary Installations
 
 * Download pgAdmin4
 	- Using windows installer or your respective systems installer is preferred
-	- Setup arbitrary master password (remember it though)
+	- Setup master password: "searchbar"
 
 * Download postgresql
 	- Same password should be fine (Can be changed in the future, hopefully)
