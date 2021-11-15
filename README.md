@@ -9,7 +9,7 @@ Necessary Installations
 * Create "robloxDjango" folder to hold all contents in this repository
 * Download zip file from github, and extract contents into folder
 
-![image](https://user-images.githubusercontent.com/70815649/141869091-e6613d06-3b01-4b40-acdf-6c8ae9658a4f.png)
+![image]<(https://user-images.githubusercontent.com/70815649/141869091-e6613d06-3b01-4b40-acdf-6c8ae9658a4f.png)>
 _How it should look
 
 * Download pgAdmin4
