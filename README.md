@@ -1,7 +1,7 @@
 # Search-Bar-Django-Example
 
 Necessary Installations
-* install django, djangorestframework, django-cors-headers, psycopg - all with "pip install"
+* install django, djangorestframework, django-cors-headers, psycopg2 - all with "pip install"
 * Install roblox_data.csv file in Data folder
 * install pgAdmin4 and postgresql (described later down)
 
