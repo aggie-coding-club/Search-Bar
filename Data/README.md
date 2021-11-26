@@ -13,3 +13,6 @@ Data dealing with cars, missing a ton of data in some fields (site issue). Featu
 
 ## Roblox_Data
 Decent amount of metrics added for game info. Unsure whether to add each game's description as well as like-dislike ratio for potential features in search bar.
+
+Nov 26
+Added another file containing roblox data, contains the previous stats as well as like, dislike, thumburl, and updated gameRating. This will allow for more potential backend and frontend features.
