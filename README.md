@@ -17,6 +17,7 @@ Necessary Installations
 
 * Download postgresql
 	- Same password should be fine (Can be changed in the future, hopefully)
+	- Make sure to remember the password for future logins
 	- Maintain same port
 
 * Setting up with pgAdmin4
